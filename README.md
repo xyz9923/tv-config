@@ -5,4 +5,7 @@ https://github.com/hafrey1/LunaTV-config
 
 ##本仓库配置来源 ：
 **https://github.com/hafrey1/LunaTV-config](https://linux.do/t/topic/997817)**
+
 **https://linux.do/t/topic/1133648/86**
+
+基于source-collector去重之后的config.json作为参照 
