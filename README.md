@@ -1,10 +1,10 @@
-#Tv-config#
+# Tv-config
 
-##MoonTV/LunaTV配置推荐仓库：##
+## MoonTV/LunaTV配置推荐仓库：
 
 https://github.com/hafrey1/LunaTV-config
 
-##本仓库配置来源 ：##
+## 本仓库配置来源 ：
 
 **https://github.com/hafrey1/LunaTV-config]**
 
@@ -12,4 +12,4 @@ https://github.com/hafrey1/LunaTV-config
 
 **https://linux.do/t/topic/1133648/86**
 
-基于source-collector去重之后的config.json作为参照 
+## 基于source-collector去重之后的config.json作为参照 
